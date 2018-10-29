@@ -13,6 +13,7 @@ My learning references for coding this experiment
 _General_
 * https://cli.vuejs.org/guide/prototyping.html
 * https://vuejs.org/v2/guide/render-function.html#slots-vs-children
+* https://bentaylor2.github.io/react-structured-data/ -> Great example for JSON-LD
 
 _Renderless Componentes tutorials_
 * https://css-tricks.com/building-renderless-vue-components/
