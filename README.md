@@ -42,6 +42,7 @@ _Manipulating Low Level DOM Elments (usually directives are perfect for this, bu
 * https://css-tricks.com/power-custom-directives-vue/
 * https://alligator.io/vuejs/custom-directives/
 * https://blog.logrocket.com/advanced-vue-js-concepts-mixins-custom-directives-filters-transitions-and-state-management-ca6955905156
+* https://ssr.vuejs.org/api/#directives
 
 _Manipulating CSS_
 * https://www.sitepoint.com/conditionally-applying-css-class-vue-js/
