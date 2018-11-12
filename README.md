@@ -30,6 +30,7 @@ _Parsing and other semantic data topics_
 * https://developers.google.com/search/docs/data-types/book
 * https://search.google.com/structured-data/testing-tool (Testing Validation tool)
 * https://metatags.io/
+* https://www.amazon.de/dp/1520553463/ Metadata Basics for the Web
 
 _Renderless Componentes tutorials (Great for Content Distribution within a component)_
 * https://css-tricks.com/using-scoped-slots-in-vue-js-to-abstract-functionality/
