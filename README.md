@@ -29,10 +29,12 @@ _Parsing and other semantic data topics_
 * https://schema.org/GeoCoordinates (my starting point)
 * https://developers.google.com/search/docs/data-types/book
 * https://search.google.com/structured-data/testing-tool (Testing Validation tool)
+* https://metatags.io/
 
 _Renderless Componentes tutorials (Great for Content Distribution within a component)_
 * https://css-tricks.com/using-scoped-slots-in-vue-js-to-abstract-functionality/
 * https://css-tricks.com/building-renderless-vue-components/
+* https://baianat.github.io/vee-validate/guide/components/validation-provider.html#scoped-slot-data
 * https://adamwathan.me/renderless-components-in-vuejs/
 * https://www.codementor.io/thomas478/building-a-list-keyboard-control-component-with-vue-js-and-scoped-slots-l113pk2ny
 * https://www.contentful.com/blog/2018/01/23/how-to-write-reusable-sane-api-based-components/
@@ -41,6 +43,7 @@ _Manipulating Low Level DOM Elments (usually directives are perfect for this, bu
 * https://vuejs.org/v2/guide/custom-directive.html
 * https://css-tricks.com/power-custom-directives-vue/
 * https://alligator.io/vuejs/custom-directives/
+* https://baianat.github.io/vee-validate/api/directive.html
 * https://blog.logrocket.com/advanced-vue-js-concepts-mixins-custom-directives-filters-transitions-and-state-management-ca6955905156
 * https://ssr.vuejs.org/api/#directives
 
@@ -49,6 +52,8 @@ _Manipulating CSS_
 * https://vuejs.org/v2/guide/class-and-style.html
 
 _Maybe some important Helper and Workarounds_
+* https://baianat.github.io/vee-validate/api/data-attrs.html (Validation with data-* Attributes)
+* https://github.com/y-nk/vue-fragment
 * https://github.com/Botre/vue-hljs-lite/blob/master/src/vue-hljs-lite.js
 * https://vuetifyjs.com/en/components/cards#example-horizontal  Working with Vue UI Libs
 * https://github.com/vuetifyjs/vuetify/blob/master/packages/vuetify/src/util/rebuildFunctionalSlots.js
