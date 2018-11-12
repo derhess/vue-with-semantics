@@ -7,7 +7,7 @@
 
 <script>
 export default {
-  name: "testProp",
+  name: 'testProp',
   props: {
     msg: String
   }

@@ -6,10 +6,10 @@
 </template>
 
 <script>
-import WithMicroformats from "./components/WithMicroformats.vue";
+import WithMicroformats from './components/WithMicroformats.vue';
 
 export default {
-  name: "app",
+  name: 'app',
   components: {
     WithMicroformats
   }
@@ -18,7 +18,7 @@ export default {
 
 <style>
 #app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
